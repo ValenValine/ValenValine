@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello!
+
+I'm Valencia, a graduate student studying biology at UNIST, South Korea. 
+
+
+### Contact me
+
+You can reach me at valencia@unist.ac.kr.
+
 
 <!--
 **ValenValine/ValenValine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

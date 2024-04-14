@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Valencia, a graduate student studying biology at UNIST, South Korea. 
+I'm Valencia, a biology graduate student at UNIST, South Korea. 
 
 
 ### Contact me
